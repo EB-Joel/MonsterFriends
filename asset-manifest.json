@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MonsterFriends/static/css/main.8ee675e7.css",
+    "main.js": "/MonsterFriends/static/js/main.c5124ec3.js",
+    "static/js/787.32032a02.chunk.js": "/MonsterFriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/MonsterFriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MonsterFriends/index.html",
+    "main.8ee675e7.css.map": "/MonsterFriends/static/css/main.8ee675e7.css.map",
+    "main.c5124ec3.js.map": "/MonsterFriends/static/js/main.c5124ec3.js.map",
+    "787.32032a02.chunk.js.map": "/MonsterFriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee675e7.css",
+    "static/js/main.c5124ec3.js"
+  ]
+}
